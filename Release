@@ -1,0 +1,7 @@
+Origin: test warman
+Label: warman 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: السورس الرسمي والوحيد للمطور ناصر
