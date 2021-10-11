@@ -1,0 +1,14 @@
+Package: me.alfhaily.cercube
+Version: 5.3.3
+Architecture: iphoneos-arm
+Maintainer: warman
+Depends:  firmware (>= 9.0), mobilesubstrate	
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack	
+Filename: Debs/me.alfhaily.cercube_5.3.3_iphoneos-arm.deb
+Size: 4167174	
+MD5sum: e88c4821ab8d2066443258b8efd7af9e	
+SHA1: d00014b46640acc080a1f641caa008fb0465d5f3	
+SHA256: 5F1F053A08F0938B741110D823FC23CC5D765283B5A589EF56F9DF18BA5BAE9D	
+Section: Tweaks	Section: Tweaks
+Depiction: https://xsoeazy.github.io/oo/
+Name: يوتيوب بلس
